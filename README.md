@@ -64,3 +64,7 @@ The application includes interactive responses, sentiment detection, memory stor
 Task 2 Presentation:
 
 https://youtu.be/Re6RqFDhZzw?si=CzAriLMkas5TN7uC
+
+## Repository Information
+
+This repository contains the complete source code, multimedia files, documentation, and project resources required for Task 2 submission.
